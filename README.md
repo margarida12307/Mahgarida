@@ -7,4 +7,5 @@ Meu nome é Maisa, derivado de Margarida.
 -Estou me desenvolvendo na linguagem JavaScript 
 
 -Utilizo esse espaço para meus desenvolvimentos.
-![](https://tenor.com/pt-BR/view/bibble-gif-5551145890465936325)
+
+![](https://tenor.com/pt-BR/view/thumb-up-smile-gif-27511881)
