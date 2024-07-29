@@ -1,4 +1,4 @@
-# Boas vindos ao meu perfilzinho. 
+# Bem vindos ao meu perfilzinho. 
 
 Meu nome é Maisa, derivado de Margarida.  
 
@@ -7,5 +7,4 @@ Meu nome é Maisa, derivado de Margarida.
 -Estou me desenvolvendo na linguagem JavaScript 
 
 -Utilizo esse espaço para meus desenvolvimentos.
-
-![](https://tenor.com/pt-BR/view/barbie-sunglasses-gif-10619892)
+![](https://tenor.com/pt-BR/view/bibble-gif-5551145890465936325)
